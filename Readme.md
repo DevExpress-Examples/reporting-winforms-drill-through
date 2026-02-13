@@ -17,7 +17,7 @@ This example demonstrates a [drill-through report](https://docs.devexpress.com/X
 
 You can click the data-bound label in the master report preview to invoke the detail report. The code that handles the [PreviewClick](https://docs.devexpress.com/XtraReports/DevExpress.XtraReports.UI.XRControl.PreviewClick) event passes the record ID from the master report to the detail report as a parameter.
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-drill-through&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-drill-through&~~~was_helpful=no)
 
